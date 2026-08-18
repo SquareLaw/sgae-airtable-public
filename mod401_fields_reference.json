@@ -1,0 +1,788 @@
+[
+  {
+    "field_id": "n solicitud",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      501.558,
+      811.038,
+      558.359,
+      822.472
+    ]
+  },
+  {
+    "field_id": "ORGANIZADOR",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      189.383,
+      610.63,
+      532.382,
+      622.064
+    ]
+  },
+  {
+    "field_id": "DOMICILIO",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      97.6634,
+      594.252,
+      393.975,
+      605.686
+    ]
+  },
+  {
+    "field_id": "CP OK",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      456.71,
+      594.252,
+      531.804,
+      605.686
+    ]
+  },
+  {
+    "field_id": "DNI",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      197.239,
+      578.599,
+      397.203,
+      590.033
+    ]
+  },
+  {
+    "field_id": "TEL",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      426.462,
+      578.599,
+      531.804,
+      590.033
+    ]
+  },
+  {
+    "field_id": "PERSONA",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      141.858,
+      563.488,
+      325.748,
+      574.922
+    ]
+  },
+  {
+    "field_id": "EMAIL",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      355.346,
+      563.488,
+      531.804,
+      574.922
+    ]
+  },
+  {
+    "field_id": "NOMBRE DEL CONCIERTO",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      174.675,
+      548.377,
+      532.262,
+      559.811
+    ]
+  },
+  {
+    "field_id": "ACTUANTES",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      99.3699,
+      532.267,
+      532.262,
+      543.701
+    ]
+  },
+  {
+    "field_id": "LUGAR CELEBRACION",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      217.315,
+      516.614,
+      532.262,
+      528.048
+    ]
+  },
+  {
+    "field_id": "FECHA",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      86.2714,
+      501.961,
+      387.356,
+      513.395
+    ]
+  },
+  {
+    "field_id": "HORA",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      453.24,
+      501.961,
+      531.804,
+      513.395
+    ]
+  },
+  {
+    "field_id": "DOMICILIO LOCAL",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      134.074,
+      486.392,
+      405.881,
+      497.826
+    ]
+  },
+  {
+    "field_id": "AFORO TOTAL",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      453.698,
+      486.392,
+      532.262,
+      497.826
+    ]
+  },
+  {
+    "field_id": "TITULAR LOCAL",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      119.004,
+      471.739,
+      532.262,
+      483.173
+    ]
+  },
+  {
+    "field_id": "TITULOS",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.7274,
+      440.06,
+      532.262,
+      451.494
+    ]
+  },
+  {
+    "field_id": "TITULOS 2",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.7274,
+      423.865,
+      532.262,
+      435.299
+    ]
+  },
+  {
+    "field_id": "TITULOS 3",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.7274,
+      408.212,
+      532.262,
+      419.646
+    ]
+  },
+  {
+    "field_id": "TITULOS 4",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.7274,
+      393.101,
+      532.262,
+      404.535
+    ]
+  },
+  {
+    "field_id": "N LOCALIDADES",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.4847,
+      312.715,
+      158.57,
+      324.149
+    ]
+  },
+  {
+    "field_id": "CLASE",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      166.026,
+      312.715,
+      289.923,
+      324.149
+    ]
+  },
+  {
+    "field_id": "PRECIO",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      290.547,
+      312.715,
+      358.563,
+      324.149
+    ]
+  },
+  {
+    "field_id": "DEL",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      382.77,
+      312.715,
+      450.803,
+      324.149
+    ]
+  },
+  {
+    "field_id": "AL",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      464.277,
+      312.715,
+      532.309,
+      324.149
+    ]
+  },
+  {
+    "field_id": "N LOCALIDADES2",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.4847,
+      296.026,
+      158.57,
+      307.46
+    ]
+  },
+  {
+    "field_id": "CLASE2",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      166.026,
+      296.026,
+      289.923,
+      307.46
+    ]
+  },
+  {
+    "field_id": "PRECIO2",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      290.547,
+      296.026,
+      358.563,
+      307.46
+    ]
+  },
+  {
+    "field_id": "DEL2",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      382.77,
+      296.026,
+      450.803,
+      307.46
+    ]
+  },
+  {
+    "field_id": "AL2",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      464.277,
+      296.026,
+      532.309,
+      307.46
+    ]
+  },
+  {
+    "field_id": "N LOCALIDADES3",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.4847,
+      280.336,
+      158.57,
+      291.77
+    ]
+  },
+  {
+    "field_id": "CLASE3",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      166.026,
+      280.336,
+      289.923,
+      291.77
+    ]
+  },
+  {
+    "field_id": "PRECIO3",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      290.547,
+      280.336,
+      358.563,
+      291.77
+    ]
+  },
+  {
+    "field_id": "DEL3",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      382.77,
+      280.336,
+      450.803,
+      291.77
+    ]
+  },
+  {
+    "field_id": "AL3",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      464.277,
+      280.336,
+      532.309,
+      291.77
+    ]
+  },
+  {
+    "field_id": "N LOCALIDADES4",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.4847,
+      264.188,
+      158.57,
+      275.622
+    ]
+  },
+  {
+    "field_id": "CLASE4",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      166.026,
+      264.188,
+      289.923,
+      275.622
+    ]
+  },
+  {
+    "field_id": "PRECIO4",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      290.547,
+      264.188,
+      358.563,
+      275.622
+    ]
+  },
+  {
+    "field_id": "DEL4",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      382.77,
+      264.188,
+      450.803,
+      275.622
+    ]
+  },
+  {
+    "field_id": "AL4",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      464.277,
+      264.188,
+      532.309,
+      275.622
+    ]
+  },
+  {
+    "field_id": "N LOCALIDADES5",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.4847,
+      248.04,
+      158.57,
+      259.474
+    ]
+  },
+  {
+    "field_id": "CLASE5",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      166.026,
+      248.04,
+      289.923,
+      259.474
+    ]
+  },
+  {
+    "field_id": "PRECIO5",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      290.547,
+      248.04,
+      358.563,
+      259.474
+    ]
+  },
+  {
+    "field_id": "DEL5",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      382.77,
+      248.04,
+      450.803,
+      259.474
+    ]
+  },
+  {
+    "field_id": "AL5",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      464.277,
+      248.04,
+      532.309,
+      259.474
+    ]
+  },
+  {
+    "field_id": "CLASE6",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      166.026,
+      232.808,
+      289.923,
+      244.242
+    ]
+  },
+  {
+    "field_id": "PRECIO6",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      290.547,
+      232.808,
+      358.563,
+      244.242
+    ]
+  },
+  {
+    "field_id": "DEL6",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      382.77,
+      232.808,
+      450.803,
+      244.242
+    ]
+  },
+  {
+    "field_id": "AL6",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      464.277,
+      232.808,
+      532.309,
+      244.242
+    ]
+  },
+  {
+    "field_id": "N LOCALIDADES6",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      58.4847,
+      232.416,
+      158.57,
+      243.85
+    ]
+  },
+  {
+    "field_id": "TOTAL LOCALIDADES",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      360.081,
+      203.533,
+      468.695,
+      214.967
+    ]
+  },
+  {
+    "field_id": "TIPO_TARIFA",
+    "type": "radio_group",
+    "page": 1,
+    "radio_options": [
+      {
+        "value": "/Desde la fecha de su firma",
+        "rect": [
+          116.26,
+          165.37,
+          128.652,
+          177.781
+        ]
+      },
+      {
+        "value": "/Car\u00e1cter retroactivo",
+        "rect": [
+          116.26,
+          153.897,
+          128.652,
+          166.308
+        ]
+      }
+    ]
+  },
+  {
+    "field_id": "PRECIO MEDIO",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      302.89,
+      165.075,
+      351.259,
+      176.509
+    ]
+  },
+  {
+    "field_id": "IMPORTE",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      400.669,
+      165.075,
+      455.619,
+      176.509
+    ]
+  },
+  {
+    "field_id": "en1",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      124.945,
+      101.391,
+      305.036,
+      112.824
+    ]
+  },
+  {
+    "field_id": "a\u00f1o1",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      473.254,
+      101.391,
+      506.553,
+      113.739
+    ]
+  },
+  {
+    "field_id": "a1",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      318.0107,
+      100.824,
+      341.4115,
+      113.4269
+    ]
+  },
+  {
+    "field_id": "de1",
+    "type": "text",
+    "page": 1,
+    "rect": [
+      357.012,
+      100.824,
+      459.6154,
+      114.0271
+    ]
+  },
+  {
+    "field_id": "domicilio SGAE",
+    "type": "text",
+    "page": 4,
+    "rect": [
+      318.976,
+      173.842,
+      536.315,
+      185.275
+    ]
+  },
+  {
+    "field_id": "NOMBRE OPERADOR TICKETING",
+    "type": "text",
+    "page": 5,
+    "rect": [
+      57.1567,
+      469.607,
+      533.371,
+      481.04
+    ]
+  },
+  {
+    "field_id": "Check Box1",
+    "type": "checkbox",
+    "checked_value": "/S\u00ed",
+    "unchecked_value": "/Off",
+    "page": 5,
+    "rect": [
+      68.0063,
+      208.273,
+      77.8246,
+      218.092
+    ]
+  },
+  {
+    "field_id": "tribunales de",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      187.135,
+      622.061,
+      287.857,
+      633.495
+    ]
+  },
+  {
+    "field_id": "en2",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      106.28,
+      493.578,
+      261.543,
+      505.012
+    ]
+  },
+  {
+    "field_id": "a2",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      267.211,
+      493.578,
+      297.235,
+      507.836
+    ]
+  },
+  {
+    "field_id": "de2",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      312.997,
+      493.578,
+      406.071,
+      507.086
+    ]
+  },
+  {
+    "field_id": "a\u00f1o2",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      418.846,
+      493.578,
+      469.451,
+      505.926
+    ]
+  },
+  {
+    "field_id": "en3",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      106.212,
+      370.052,
+      261.475,
+      381.485
+    ]
+  },
+  {
+    "field_id": "a3",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      266.46,
+      370.052,
+      294.232,
+      383.56
+    ]
+  },
+  {
+    "field_id": "de3",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      310.21,
+      370.052,
+      405.614,
+      384.455
+    ]
+  },
+  {
+    "field_id": "a\u00f1o3",
+    "type": "text",
+    "page": 6,
+    "rect": [
+      421.814,
+      370.052,
+      469.816,
+      385.055
+    ]
+  }
+]

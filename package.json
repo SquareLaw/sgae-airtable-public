@@ -1,0 +1,15 @@
+{
+  "name": "sgae-document-demo",
+  "version": "1.0.0",
+  "description": "Public demo: fills SGAE Mod_401 and Hoja de Variedades PDFs from Airtable event data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
